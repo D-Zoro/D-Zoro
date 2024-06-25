@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Zoro
-- 👀 I’m interested in anime,new to coding 
 - 🌱 I’m currently learning c++
+- 
 
 <!---
 D-Zoro/D-Zoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
