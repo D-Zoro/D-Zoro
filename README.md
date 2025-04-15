@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Neonplulse here</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&lines=BANKAII+!!!;Full-Stack+Developer;MERN+Stack+Enthusiast;Always+Learning!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&lines=BANKAII+!!!;Full-Stack+Developer;TECH+Enthusiast;Always+Learning!"/>
 </p>
 
 ---
