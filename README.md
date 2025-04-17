@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 💻 **2nd Year Engineering Student** at **DSCE, Bengaluru**  
-🔥 Passionate about **Tech, MERN Stack, and Exploring AIML**  
+🔥 Passionate about **Tech, MERN Stack, and Exploring AIML,Nextjs**  
 🚀 Currently working on **[Serene Sphere](https://github.com/D-Zoro/Serene-sphere)** (Open to Contributors!)  
 
 ---
