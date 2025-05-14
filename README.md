@@ -75,6 +75,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=30&center=true&lines=COME+DM+RA!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=30&center=true&lines=I+USE+ARCH+BTW"/>
 </p>
 
